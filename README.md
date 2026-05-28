@@ -2,7 +2,7 @@
 
 ## Desenolvedor Back-End
 
-me Chamo Pedro Lacerda, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Sistemas da Informação na faculdade na Anhembi Morumbi. Estou em constante apredizado e busco novas oportunidade de emprego, seja em desenvolvedor ou suporte de TI.
+Me chamo Pedro Lacerda, tenho 18 anos e sou natural de São Paulo. Atualmente estou cursando Sistemas da Informação na faculdade Anhembi Morumbi. Estou em constante apredizado e busco novas oportunidade de emprego, seja em desenvolvedor ou suporte de TI.
 
  </a>
     <a href="https://github.com/pedrobrancolacerda-code?tab=followers">
